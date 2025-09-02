@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I’m Shivam Patra, a final-year Computer Science Engineering student at GIET University, passionate about solving complex problems and building impactful technology solutions. I love turning ideas into solutions using AI/ML, IoT, full-stack development,
+
+I’ve worked on diverse projects ranging from AI-powered systems to IoT solutions and full-stack web applications, combining creativity with practical implementation. I thrive in environments that encourage learning, innovation, and collaboration.
+
+I’m actively seeking opportunities where I can contribute as a problem solver and full-stack developer, applying my skills in AI/ML, IoT, and web development to create meaningful impact.
+
+📩 Let’s connect – Reach me at shivampatra@hotmail.com or here on LinkedIn to explore collaboration and exciting opportunities.
